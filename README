@@ -1,15 +1,13 @@
 introduction
 ===
-Lemon comes with this weird license because i can't justify to myself
-spending so much time working on it with no hope of returns.
-I know there are "secondary" ways to make money on open source projects,
-but in my medical condition, and with the "meta", "take-over-
-the-world" nature of the project, they don't seem realistic.
-The program's main goal is to be self-explanatory, easily extended, need no on-site training, no support.
-Also, trying to prove that licenses and lawyerspeak can work for people. I appreciate any discussion.
-if you want to contribute to the program under your conditions instead, i hope we can work something out. Going with a standard open source license is an option, too.
+i love working on lemon but wont be able to do it for free forever.
+usual open source business models dont fit, if anything of
+http://en.wikipedia.org/wiki/Business_models_for_open-source_software becomes viable, the vision of lemon has failed. The program's main goal is to be self-explanatory, easily extended, need no on-site training, no support.
 
-This is just a preliminary sketch that wouldn't pass for a proper license.
+Also, trying to prove that licenses and lawyerspeak can work for people. I appreciate any discussion.
+if you want to contribute to the program under your conditions instead, i hope we can work something out. Going with a standard open source license is an option too.
+
+These are just preliminary notes that wouldn't pass as a proper license.
 
 
 
@@ -38,6 +36,10 @@ comment: you can make money reselling the work,
 links
  http://tarantsov.com/blog/2012/02/the-third-definition-of-open/
  http://en.wikipedia.org/wiki/Business_models_for_open-source_software
+ http://lwn.net/Articles/592503/  
+ http://www.drdobbs.com/open-source/the-conflict-at-the-heart-of-open-source/240168123  
+ http://sourcecontribute.com/2014/04/03/charging-for-freeopen-source-software/  
+ http://research.microsoft.com/en-us/projects/pex/msr-la.txt  
 
 fun
  http://wonko.com/post/jsmin-isnt-welcome-on-google-code
@@ -79,4 +81,12 @@ you can distribute and sell, modify, yada yada
 
 what is derived work?
 
-half of the collected money goes to the Free Software Foundation or other (open source?) projects at the core authors option
+half of the collected money goes to the Free Software Foundation or other (open source?) projects at the core authors option? your option?
+
+
+
+notes: donation. the roof
+
+how to define a user? basically give up and charge for only well-definable (desktop) use?
+dual licensing, crudely something like CC-NC + additional permissions for non-heavy use + a commercial license?
+maybe heavily adapt GPL
