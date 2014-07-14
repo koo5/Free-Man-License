@@ -4,8 +4,10 @@ i love working on lemon but wont be able to do it for free forever.
 usual open source business models dont fit, if anything in
 http://en.wikipedia.org/wiki/Business_models_for_open-source_software becomes viable, it would be only because the vision of the lemon UX has failed. The program's main goal is to be self-explanatory, easily extended, need no on-site training, no support.
 
-Also, trying to prove that licenses and lawyerspeak can work for people here. I appreciate any discussion.
-if you want to contribute to the program under your conditions instead, i hope we work something out. Going with a standard open source license is an option too.
+Also, trying to prove that licenses and lawyerspeak can work for people here. Im not the only person who would love to work on basically free software but cant find a way to monetize it.
+ http://sourcecontribute.com/2014/04/03/charging-for-freeopen-source-software/  
+ 
+if you want to contribute to the program under your conditions instead, i hope we can work something out. Going with some standard license is an option too.
 
 These are just preliminary notes that wouldn't pass as a proper license.
 
@@ -85,10 +87,24 @@ what is derived work?
 
 half of the collected money goes to the Free Software Foundation or other (open source?) projects at the core authors option? your option?
 
+notes: define donations from the income?
+
+crazy shit:
+bounties - not part of the license i guess
+a roof - maximum collectible money before the software becomes free. slave software?
+"pay for a gpl version":-)
 
 
-notes: donation. the roof
 
 how to define a user? basically give up and charge for only well-definable (desktop) use?
 dual licensing, crudely something like CC-NC + additional permissions for non-heavy use + a commercial license?
 maybe heavily adapt GPL
+
+
+http://www.gnu.org/licenses/lgpl.html
+
+
+
+
+avoid CLA by having that in the license, like GPL:
++patents
