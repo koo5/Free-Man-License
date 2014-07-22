@@ -1,13 +1,14 @@
 introduction
 ===
-i love working on lemon but wont be able to do it for free forever. 
-usual open source business models dont fit, if anything in
+i love working on lemon but wont be able to do it for free forever. The goal is to not throw away the chance for monetization, uphold the values of Free Software as much as possible, and make it still interesting for potential contributors to contribute. That implies either CLAs or a license functioning as such.
+Usual open source business models including dual-licensing can hardly apply to lemon. Most of its source code will be available from lemon itself, as in lemon the UI. As on ordinary programs written in lemon, programming languages usually have a MIT-style license for the standard library and GPL for the interpreter/compiler. In any case, it's pretty complicated. If anything in
 http://en.wikipedia.org/wiki/Business_models_for_open-source_software becomes viable, it would be only because the vision of the lemon UX has failed. The program's main goal is to be self-explanatory, easily extended, need no on-site training, no support.
 
 Also, trying to prove that licenses and lawyerspeak can work for people here. Im not the only person who would love to work on basically free software but cant find a way to monetize it.
- http://sourcecontribute.com/2014/04/03/charging-for-freeopen-source-software/  
- 
-if you want to contribute to the program under your conditions instead, i hope we can work something out. Going with some standard license is an option too.
+
+if you want to contribute to the program under your conditions instead, i hope we can work something out. 
+
+Going with some standard license is an option too.
 
 These are just preliminary notes that wouldn't pass as a proper license.
 
