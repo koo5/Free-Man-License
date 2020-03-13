@@ -1,3 +1,64 @@
+update
+===
+It's been a couple of years now since i last researched OSS licensing, and pondered my own license (https://github.com/koo5/Free-Man-License)
+..so i took some time to try to get up to speed. And i have to say, the landscape seems to have changed. 
+i ran into these novel OS licensing ideas:
+	1) https://licensezero.com/
+	2) https://writing.kemitchell.com/2016/03/30/First-Read-of-the-Fair-Source-License.html
+	3) https://commonsclause.com/
+
+Those six years ago, it seemed to me that attempting to opensource anything by crafting one's own license, or going with anything that FSF/OSI approved ones, was only going to be ridiculed, and that people would grab their heads and say "how can we even know that we could link/use/ship your sw with another sw of a different license", or similar. I mean, even the practice of CLAs seemed an awfully controversial thing back then. But maybe i was just younger and more ideallistic? 
+
+Some events seem to have happened since then, according to my googling:
+	https://lwn.net/Articles/763179/
+	https://opensource.com/article/19/1/cla-proliferation
+	see https://grafana.com/blog/2019/03/28/everything-you-need-to-know-about-the-oss-licensing-war-part-2./
+	
+Still have quite a bit of reading i'd have to do to make up my mind wrt OSS-related business models, but my takeaways for now are:
+If you're going to commoditize your code, you better know what the income-generating complement is. (https://grafana.com/blog/2019/03/20/everything-you-need-to-know-about-the-oss-licensing-war-part-1./)
+Copyright is a resource, and licensing is a tool to make most use of it, and probably should be applied strategically on a granular, case-by-case level.
+
+i think there are 3 levels that we can make decisions about:
+	1) keeping sauce secret
+	2) keeping rights to actual implementation/code
+	3) holding patents, if anyone's still into that
+
+
+random quotes:
+	"""The legal protections copyright affords to software writings apply to the specific
+	writings embodying the innovation rather than to the innovation itself. Thus, copyright does
+	not prevent someone from studying the novel functionality encoded in a writing and then
+	creating an original writing to perform the exact same function. The measure of protection
+	copyright affords to software authors is therefore only the number of programmer-hours it
+	would take for a would-be imitator to replicate the now known function in any given
+	programming language. This protection level can be high in the case of very large programs
+	such as Microsoft’s Windows operating system. It can be quite low in the case of
+	innovations having novel functionality that is easily understood and encoded in a software
+	program of modest size."""
+	- http://www.oecd.org/education/innovation-education/32125887.pdf
+
+	"""
+	. The question rather is whether or not a license is an appropriate remedy for the issue.
+	The view here has been, and remains, that licenses do not represent a solution. At best, they’re a band aid, and at worst they may achieve ends opposite of their original intent. There are many reasons to be critical of these controversial licensing approaches, here are ten of the most relevant.
+	"""
+	- https://redmonk.com/sogrady/2018/12/21/cycles-oss/
+
+	"""
+	today's competitive advantage will be tomorrow's commodity and the time between advantage to commoditization is shrinking the collaborative essence of the open source community offers some respite and relief. Geoffrey Moore suggests that competitors should engage the open source community to manage the commonality across the industry. Commonality is fundamentally anything that does not differentiate competitors or does not provide a competitive advantage. The rewards for adopting this strategy is that resources, which were previously working on commonality, can be repurposed to work on value creating activities. """
+	- http://web.archive.org/web/20130729212823id_/http://itc.conversationsnetwork.org/shows/detail494.html
+
+	"""Viral licensing is an EXCELLENT competitive tactic to ensure your competition does not perturb your community or monetize your assets:
+	BSD-style licensing doesn’t protect your customer relationships in community nor your asset investment"""
+	- https://stephesblog.blogs.com/presentations/OSSBusinessModelinOneSlide.pdf
+
+	"Community building doesn’t come for free."
+	- https://medium.com/@stephenrwalli/there-is-still-no-open-source-business-model-8748738faa43
+
+	
+
+
+
+
 introduction
 ===
 i love working on lemon but wont be able to do it for free forever. The goal is to not throw away the chance for monetization, uphold the values of Free Software as much as possible, and make it still interesting for potential contributors to contribute. That implies either CLAs or a license functioning as such.
