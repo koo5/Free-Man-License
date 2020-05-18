@@ -5,6 +5,7 @@ It's been a couple of years now since i last researched OSS licensing, and ponde
 i ran into these novel OS licensing ideas:
 	1) https://licensezero.com/
 	2) https://writing.kemitchell.com/2016/03/30/First-Read-of-the-Fair-Source-License.html
+	https://faircode.io/ https://n8n.io/
 	3) https://commonsclause.com/
 
 Those six years ago, it seemed to me that attempting to opensource anything by crafting one's own license, or going with anything that FSF/OSI approved ones, was only going to be ridiculed, and that people would grab their heads and say "how can we even know that we could link/use/ship your sw with another sw of a different license", or similar. I mean, even the practice of CLAs seemed an awfully controversial thing back then. But maybe i was just younger and more ideallistic? 
