@@ -119,6 +119,15 @@ todo:
 versioning - this work is always published under the current version of the license ... 
 
 contributor agreement?
+	https://github.com/VCVRack/Rack/blob/v1/.github/CONTRIBUTING.md
+	```Legal. A proprietary fork of VCV Rack is planned (see Rack for DAWs), so VCV must own all GPLv3 code. To accept a contribution, all authors of the contribution need to either
+
+    declare the patch under the CC0 license.
+    complete a copyright reassignment form.
+    perform the work under a paid agreement.
+```
+
+
 	http://en.wikipedia.org/wiki/Contributor_License_Agreement
 	'''With the Harmony CLA, "the contributor gives Canonical a licence to use their contributions. The contributor continues to own the copyright in the contribution, with full rights to re-use, re-distribute, and continue modifying the contributed code, allowing them to also share that contribution with other projects.'''
 	http://www.clahub.com/
